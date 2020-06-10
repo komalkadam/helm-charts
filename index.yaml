@@ -3,16 +3,16 @@ entries:
   sample-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-10T22:13:52.023797+05:30"
+    created: "2020-06-10T22:46:22.081008+05:30"
     description: A Helm chart for Kubernetes
-    digest: 7d485363dc951eec7d68e42ff76238208b24099c3724e1788eb33552f35162a0
+    digest: 1e7a179c6d9dedaf9fb9239b9ed44bdb5fd6d1e34bddbd865a5951bec33d5f44
     name: sample-chart
     urls:
     - https://komalkadam.github.io/helm-charts/sample-chart-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-10T22:13:52.025717+05:30"
+    created: "2020-06-10T22:46:22.084782+05:30"
     description: A Helm chart for Kubernetes
     digest: 60089308bb2cc8f259cdd4ce732659fb969bed1edc61d354e9fb98ed8fa731a9
     name: sample-chart
@@ -22,7 +22,7 @@ entries:
   sample-chart1:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-10T22:13:52.024453+05:30"
+    created: "2020-06-10T22:46:22.082112+05:30"
     description: A Helm chart for Kubernetes
     digest: 4605098486dc3ca15fa2d4495c19cf43a21fe424601599aa56318b5191809a9d
     name: sample-chart1
@@ -31,7 +31,7 @@ entries:
     version: 0.1.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-10T22:13:52.026333+05:30"
+    created: "2020-06-10T22:46:22.08672+05:30"
     description: A Helm chart for Kubernetes
     digest: 3acc2a66ac5e3c12f45790b33a5e6040ac1834e604849af47874505cf5619c06
     name: sample-chart1
@@ -41,11 +41,21 @@ entries:
   second-sample-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-10T22:13:52.02508+05:30"
+    created: "2020-06-10T22:46:22.083151+05:30"
     description: A Helm chart for Kubernetes
     digest: d6b243ded7dcf8e57a2a1b8e0c53380e22a2763c87beb30c77353689d2376a31
     name: second-sample-chart
     urls:
     - https://komalkadam.github.io/helm-charts/second-sample-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-10T22:13:52.022125+05:30"
+  third-sample-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-10T22:46:22.083531+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 8ad72d7597232ad62119ad8d873394656a3fd672bfa182a4cf4cb4eff1ab0413
+    name: third-sample-chart
+    urls:
+    - https://komalkadam.github.io/helm-charts/third-sample-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-10T22:46:22.078905+05:30"
