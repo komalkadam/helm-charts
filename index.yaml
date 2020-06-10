@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  sample-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-10T22:01:19.338757+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 363b8ea3e7426faa995b5be82a1c14270de3c7bfb03c4f0593d3593a7b2d41c8
+    name: sample-chart
+    urls:
+    - https://komalkadam.github.io/helm-charts/sample-chart-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-10T22:01:19.339748+05:30"
+    description: A Helm chart for Kubernetes
+    digest: c1a8678ded19699019ffc62a26afe5b314c232124c563c57459d20e016ab30c0
+    name: sample-chart
+    urls:
+    - https://komalkadam.github.io/helm-charts/helm-chart-sources/sample-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-10T22:01:19.337207+05:30"
