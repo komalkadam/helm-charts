@@ -3,20 +3,49 @@ entries:
   sample-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-10T22:01:19.338757+05:30"
+    created: "2020-06-10T22:13:52.023797+05:30"
     description: A Helm chart for Kubernetes
-    digest: 363b8ea3e7426faa995b5be82a1c14270de3c7bfb03c4f0593d3593a7b2d41c8
+    digest: 7d485363dc951eec7d68e42ff76238208b24099c3724e1788eb33552f35162a0
     name: sample-chart
     urls:
     - https://komalkadam.github.io/helm-charts/sample-chart-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-06-10T22:01:19.339748+05:30"
+    created: "2020-06-10T22:13:52.025717+05:30"
     description: A Helm chart for Kubernetes
-    digest: c1a8678ded19699019ffc62a26afe5b314c232124c563c57459d20e016ab30c0
+    digest: 60089308bb2cc8f259cdd4ce732659fb969bed1edc61d354e9fb98ed8fa731a9
     name: sample-chart
     urls:
     - https://komalkadam.github.io/helm-charts/helm-chart-sources/sample-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-10T22:01:19.337207+05:30"
+  sample-chart1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-10T22:13:52.024453+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 4605098486dc3ca15fa2d4495c19cf43a21fe424601599aa56318b5191809a9d
+    name: sample-chart1
+    urls:
+    - https://komalkadam.github.io/helm-charts/sample-chart1-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-10T22:13:52.026333+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 3acc2a66ac5e3c12f45790b33a5e6040ac1834e604849af47874505cf5619c06
+    name: sample-chart1
+    urls:
+    - https://komalkadam.github.io/helm-charts/helm-chart-sources/sample-chart1-0.1.0.tgz
+    version: 0.1.0
+  second-sample-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-10T22:13:52.02508+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d6b243ded7dcf8e57a2a1b8e0c53380e22a2763c87beb30c77353689d2376a31
+    name: second-sample-chart
+    urls:
+    - https://komalkadam.github.io/helm-charts/second-sample-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-10T22:13:52.022125+05:30"
